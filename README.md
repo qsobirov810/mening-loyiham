@@ -1,14 +1,15 @@
 # mening-loyiham
-## bu mening birinchi loyiham
-**Telegram AI bot**
+## instagramdan video yuklovchi bo't
 
 Funksiyalari:
 
-- Rasm yaratish
-- video yasash
+1. Instagramdan reels yuklash
+2. Instagramdan stories yuklash
+3. Youtube dan video yuklash
 
-  **Foydalanilgan dasturlash tillari**
+**Afzalliklari!!!**
+- Reklama chiqmaydi
+- video musiqasini alohida yuklash mumkin
+- hech qanday kanallarga obuna bo'lish shart emas
 
-  1. Python Aiogramm
-  2. HTML
-  3. Css
+  **Creator: Akbar_Developer**
